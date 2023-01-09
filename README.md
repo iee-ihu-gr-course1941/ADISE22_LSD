@@ -25,17 +25,26 @@ Hello there !
 # Περιγραφή API
 
 GET /deck  --> show deck
+
 POST /DECK --> reset deck
-GET /STATUS --> update games status and show status 
+
+GET /STATUS --> update games status and show status
+
 GET /player --> show user 
+
 PUT /player --> set user 
+
 
 # ΑΠΑΙΤΗΣΕΙΣ 
 
 apache
+
 MySql 
+
 phpadmin
+
 postman
+
 
 
 
